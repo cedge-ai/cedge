@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cedge/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cedge/static/js/main.8198886a.chunk.js",
+    "main.js.map": "/cedge/static/js/main.8198886a.chunk.js.map",
+    "runtime-main.js": "/cedge/static/js/runtime-main.ca608ce1.js",
+    "runtime-main.js.map": "/cedge/static/js/runtime-main.ca608ce1.js.map",
+    "static/js/2.0a03d099.chunk.js": "/cedge/static/js/2.0a03d099.chunk.js",
+    "static/js/2.0a03d099.chunk.js.map": "/cedge/static/js/2.0a03d099.chunk.js.map",
+    "index.html": "/cedge/index.html",
+    "precache-manifest.12aaf26ad7f3102b1041a43875a60dff.js": "/cedge/precache-manifest.12aaf26ad7f3102b1041a43875a60dff.js",
+    "service-worker.js": "/cedge/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/cedge/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0a03d099.chunk.js.LICENSE.txt": "/cedge/static/js/2.0a03d099.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/cedge/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ca608ce1.js",
+    "static/js/2.0a03d099.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8198886a.chunk.js"
+  ]
+}
