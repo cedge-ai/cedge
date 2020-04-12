@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff1789d6170019c68345616a22b6ee05",
+    "revision": "c80344ffcdddb1408d00debd50accfda",
     "url": "/cedge/index.html"
   },
   {
