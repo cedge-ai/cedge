@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cedge/static/css/main.b487ae1b.chunk.css",
+    "main.css": "/cedge/static/css/main.112b4198.chunk.css",
     "main.js": "/cedge/static/js/main.dcb84923.chunk.js",
     "main.js.map": "/cedge/static/js/main.dcb84923.chunk.js.map",
     "runtime-main.js": "/cedge/static/js/runtime-main.ca608ce1.js",
@@ -8,17 +8,16 @@
     "static/js/2.c2f22613.chunk.js": "/cedge/static/js/2.c2f22613.chunk.js",
     "static/js/2.c2f22613.chunk.js.map": "/cedge/static/js/2.c2f22613.chunk.js.map",
     "index.html": "/cedge/index.html",
-    "precache-manifest.7f36512980c659bc25ff81e927c9ff26.js": "/cedge/precache-manifest.7f36512980c659bc25ff81e927c9ff26.js",
+    "precache-manifest.9a7c8d9143f9bceab5fc3f8de54e4d18.js": "/cedge/precache-manifest.9a7c8d9143f9bceab5fc3f8de54e4d18.js",
     "service-worker.js": "/cedge/service-worker.js",
-    "static/css/main.b487ae1b.chunk.css.map": "/cedge/static/css/main.b487ae1b.chunk.css.map",
+    "static/css/main.112b4198.chunk.css.map": "/cedge/static/css/main.112b4198.chunk.css.map",
     "static/js/2.c2f22613.chunk.js.LICENSE.txt": "/cedge/static/js/2.c2f22613.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/cedge/static/media/city.5e36b95f.jpg",
     "static/media/logo.svg": "/cedge/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ca608ce1.js",
     "static/js/2.c2f22613.chunk.js",
-    "static/css/main.b487ae1b.chunk.css",
+    "static/css/main.112b4198.chunk.css",
     "static/js/main.dcb84923.chunk.js"
   ]
 }

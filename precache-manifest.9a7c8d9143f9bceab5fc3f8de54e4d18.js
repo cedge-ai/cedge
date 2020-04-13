@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c80344ffcdddb1408d00debd50accfda",
+    "revision": "18754017375c6428e562ebc941672123",
     "url": "/cedge/index.html"
   },
   {
-    "revision": "7eedd3fffdf313f722ca",
-    "url": "/cedge/static/css/main.b487ae1b.chunk.css"
+    "revision": "f6b276cb95ef44855078",
+    "url": "/cedge/static/css/main.112b4198.chunk.css"
   },
   {
     "revision": "372e9c6259b6706c0777",
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cedge/static/js/2.c2f22613.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7eedd3fffdf313f722ca",
+    "revision": "f6b276cb95ef44855078",
     "url": "/cedge/static/js/main.dcb84923.chunk.js"
   },
   {
     "revision": "9f70061f2b1b2814530a",
     "url": "/cedge/static/js/runtime-main.ca608ce1.js"
-  },
-  {
-    "revision": "5e36b95f117861acfc39cab05da12216",
-    "url": "/cedge/static/media/city.5e36b95f.jpg"
   },
   {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
