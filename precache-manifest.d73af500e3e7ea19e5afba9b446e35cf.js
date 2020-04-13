@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2599e7629b453565d58acd5565c69c14",
+    "revision": "50380c97239f0d414c7966556ee306b7",
     "url": "/cedge/index.html"
   },
   {
-    "revision": "805d477f90a96a196f27",
-    "url": "/cedge/static/css/main.da0a1461.chunk.css"
+    "revision": "08363aa55719eadbdc91",
+    "url": "/cedge/static/css/main.5ec40e09.chunk.css"
   },
   {
     "revision": "372e9c6259b6706c0777",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cedge/static/js/2.c2f22613.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "805d477f90a96a196f27",
+    "revision": "08363aa55719eadbdc91",
     "url": "/cedge/static/js/main.dcb84923.chunk.js"
   },
   {
