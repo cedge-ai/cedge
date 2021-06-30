@@ -10,7 +10,7 @@
   
     <link rel="apple-touch-icon" href="apple-touch-icon.png" />
     <script src="https://s.pageclip.co/v1/pageclip.js" charset="utf-8"></script>
-    <!-- <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen"> -->
+    <link rel="stylesheet" href="https://s.pageclip.co/v1/pageclip.css" media="screen">
 
 
 
@@ -59,23 +59,27 @@
             </button>
           </div>
         </div>
-        <div id="captureMsg" style="color: floralwhite; display: none">
+        <!-- <div id="captureMsg" style="color: floralwhite; display: none">
+          <hr>
           Thank you!
-        </div>
+        </div> -->
       </form>
     </p>
     <script>
       document.getElementById("captureEmail").onsubmit = function() { capture()};
 
       function capture() {
-        var x = document.getElementById("captureEmail");
-        if (x.style.display ==="none") {
-          x.style.display = "block";
-        }
-        else {
-          x.style.display = "none";
-        }
+        alert("Thank you");
       }
+      // function capture() {
+      //   var x = document.getElementById("captureEmail");
+      //   if (x.style.display ==="none") {
+      //     x.style.display = "block";
+      //   }
+      //   else {
+      //     x.style.display = "none";
+      //   }
+      // }
     </script>
   </main>
 
